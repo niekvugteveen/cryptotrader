@@ -1,0 +1,2 @@
+# cryptotrader
+elixir binance project

@@ -42,6 +42,8 @@ defmodule Streamer.Binance do
       "Trade event received " <>
         "#{trade_event.symbol}@#{trade_event.price}"
     )
+
+    Naive.send_event(trade_event)
   end
 
   def handle_cast({:send, {type, msg} = frame}, state) do

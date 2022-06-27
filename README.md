@@ -1,4 +1,4 @@
-# Hedgehog
+# Binance trader
 
-**TODO: Add description**
+**Ik zou hem nog niet gebruiken. Verder moet je het zelf weten. #reliablesoftware
 
